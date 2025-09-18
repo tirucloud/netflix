@@ -15,3 +15,5 @@ kubectl apply -f k8s/dep.yml
 kubectl apply -f k8s/svc.yml
 kubectl get svc
 ```
+
+
